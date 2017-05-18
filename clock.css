@@ -1,0 +1,99 @@
+body {
+	background-color: #d09cd9;
+}
+div{
+	position: relative;
+	margin: auto;
+	font-family: sans-serif;
+	font-size: 100px;
+}
+#clock{
+	color: white;
+}
+#clockr{
+	color: white;
+	position: absolute;
+	right: 425px;
+	top: 0px;
+}
+#clockl{
+	color: white;
+	position: absolute;
+	right: -175px;
+	top: 0px;
+}
+#clock2{
+	color: #b29cd9;
+}
+#clock2r{
+	color: #b29cd9;
+	position: absolute;
+	right: 425px;
+	top: 125px;
+}
+#clock2l{
+	color: #b29cd9;
+	position: absolute;
+	right: -175px;
+	top: 125px;
+}
+#clock3{
+	color:#9ca5d9;
+}
+#clock3r{
+	color: #9ca5d9;
+	position: absolute;
+	right: 425px;
+	top: 250px;
+}
+#clock3l{
+	color: #9ca5d9;
+	position: absolute;
+	right: -175px;
+	top: 250px;
+}
+#clock4{
+	color: #9ca5d9;
+}
+#clock4r{
+	color: #9ca5d9;
+	position: absolute;
+	right: 425px;
+	top: 375px;
+}
+#clock4l{
+	color: #9ca5d9;
+	position: absolute;
+	right: -175px;
+	top: 375px;
+}
+#clock5{
+	color: #b29cd9;
+}
+#clock5r{
+	color: #b29cd9;
+	position: absolute;
+	right: 425px;
+	top: 500px;
+}
+#clock5l{
+	color: #b29cd9;
+	position: absolute;
+	right: -175px;
+	top: 500px;
+}
+#clock6{
+	color: white;
+}
+#clock6l{
+	color: white;
+	position: absolute;
+	right: -175px;
+	top: 625px;
+}
+#clock6r{
+	color: white;
+	position: absolute;
+	right: 425px;
+	top: 625px;
+}
